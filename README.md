@@ -35,7 +35,7 @@ Jika kamu ingin bekerja sama atau hanya sekadar ngobrol, silakan hubungi saya me
 
 ## 🚀 Live Website
 Klik link berikut untuk melihat website saya secara live:  
-🔗 [https://username.github.io/portfolio](https://username.github.io/portfolio)
+🔗 [https://Sandy Ramadhan.github.io/portfolio](https://salvazka.github.io/Sandy-Portofolio/)
 
 > Ganti `username` dengan akun GitHub kamu dan sesuaikan nama repo-nya kalau berbeda.
 
